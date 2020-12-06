@@ -608,7 +608,7 @@ there.
 /* Larger than mobile */
 @media (min-width: 400px) {
   .adjustable-image {
-    content: url(/images/catImg1.jpg);
+    content: url(/Images/catImg1.jpg);
   }
 
 }
@@ -616,7 +616,7 @@ there.
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
   .adjustable-image {
-    content: url(/images/catImg2.jpg);
+    content: url(/Images/catImg2.jpg);
   }
 
 }
@@ -624,7 +624,7 @@ there.
 /* Larger than tablet */
 @media (min-width: 750px) {
   .adjustable-image {
-    content: url(/images/catImg3.jpg);
+    content: url(/Images/catImg3.jpg);
   }
 
 }
@@ -632,7 +632,7 @@ there.
 /* Larger than desktop */
 @media (min-width: 1000px) {
   .adjustable-image {
-    content: url(/images/catImg4.jpg);
+    content: url(/Images/catImg4.jpg);
   }
 
 }
@@ -640,7 +640,7 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
   .adjustable-image {
-    content: url(/images/catImg5.jpg);
+    content: url(/Images/catImg5.jpg);
   }
 
 }
@@ -680,19 +680,19 @@ footer {
 
 .social-dribbble {
   width: 45px; height: 45px;
-  background: url('/images/css_sprites.png') 0px 0px;
+  background: url('/Images/css_sprites.png') 0px 0px;
   background-size: 135px 45px;
 }
 
 .social-facebook {
   width: 45px; height: 45px;
-  background: url('/images/css_sprites.png') -45px 0px;
+  background: url('/Images/css_sprites.png') -45px 0px;
   background-size: 135px 45px;
 }
 
 .social-twitter {
   width: 45px; height: 45px;
-  background: url('/images/css_sprites.png') -90px 0px;
+  background: url('/Images/css_sprites.png') -90px 0px;
   background-size: 135px 45px;
 }
 
